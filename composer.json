@@ -1,0 +1,17 @@
+{
+    "name": "php/awesome",
+    "homepage": "https://github.com/j7mbo/awesome",
+    "description": "Been there, done that, got the t-shirt",
+    "keywords": ["php", "awesome"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Mallison",
+            "email": "jm_cj@hotmail.com",
+            "role": "Creator / Main Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
